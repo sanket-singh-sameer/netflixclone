@@ -245,3 +245,7 @@ footer .questions {
     flex-direction: column;
     gap: 23px;
 }
+
+.first>div>span{
+    margin: 2rem;
+}
